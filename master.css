@@ -17,3 +17,7 @@ main {
     border: black solid 1px;
     padding: 10px;
 }
+
+img {
+  width: 150px;
+}
