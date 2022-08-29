@@ -8,3 +8,4 @@ Este es un blogcito elaborado con el curso profesional de Git y Github.
 * Tanto buenas como malas prácticas (para saber)
 * Creado en Platzi
 * Ejemplos en Windows, linux y MAC
+* Perfecto para cualquier developer!
